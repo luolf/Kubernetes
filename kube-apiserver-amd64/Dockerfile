@@ -1,2 +1,2 @@
-﻿FROM gcr.io/google_containers/kubernetes-apiserver-amd64:v1.9.1 
+﻿FROM k8s.gcr.io/kubernetes-apiserver-amd64:v1.9.0 
 MAINTAINER luolf
